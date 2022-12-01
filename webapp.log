@@ -1,0 +1,5 @@
+2022/12/01 22:56:48 base.go:21: sql: unknown driver "" (forgotten import?)
+2022/12/01 22:59:14 base.go:23: sql: unknown driver "" (forgotten import?)
+2022/12/01 23:07:58 base.go:23: sql: unknown driver "" (forgotten import?)
+2022/12/01 23:12:05 base.go:23: sql: unknown driver "" (forgotten import?)
+2022/12/01 23:12:14 main.go:16: test

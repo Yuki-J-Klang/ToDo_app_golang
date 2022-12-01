@@ -1,13 +1,20 @@
 package main
 
 import (
-	"https://github.com/Yuki-J-Klang/udemy-go-lesson/tree/master/ToDo_app_golang/config"
 	"fmt"
+	"log"
+	"mymodule/config"
 )
 
 func main() {
+
 	fmt.Println(config.Config.Port)
 	fmt.Println(config.Config.SQLDriver)
 	fmt.Println(config.Config.DbName)
-	fmt.Println(config.Config.Logfile)
+	fmt.Println(config.Config.LogFile)
+
+	log.Println("test")
+
+	//fmt.Println(models.Db)
+
 }
