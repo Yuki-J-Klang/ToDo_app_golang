@@ -3,3 +3,11 @@
 2022/12/01 23:07:58 base.go:23: sql: unknown driver "" (forgotten import?)
 2022/12/01 23:12:05 base.go:23: sql: unknown driver "" (forgotten import?)
 2022/12/01 23:12:14 main.go:16: test
+2022/12/02 18:52:04 main.go:16: test
+2022/12/02 18:56:43 main.go:16: test
+2022/12/02 19:02:37 base.go:23: sql: unknown driver "" (forgotten import?)
+2022/12/02 19:08:09 base.go:23: sql: unknown driver "" (forgotten import?)
+2022/12/02 19:09:08 base.go:23: sql: unknown driver "" (forgotten import?)
+2022/12/02 19:11:57 base.go:23: sql: unknown driver "" (forgotten import?)
+2022/12/02 19:14:34 base.go:23: sql: unknown driver "" (forgotten import?)
+2022/12/02 19:16:16 main.go:17: test
