@@ -11,3 +11,11 @@
 2022/12/02 19:11:57 base.go:23: sql: unknown driver "" (forgotten import?)
 2022/12/02 19:14:34 base.go:23: sql: unknown driver "" (forgotten import?)
 2022/12/02 19:16:16 main.go:17: test
+2022/12/07 17:48:12 users.go:57: near "upadate": syntax error
+2022/12/07 17:48:39 users.go:57: near "where": syntax error
+2022/12/07 17:50:32 users.go:57: near "where": syntax error
+2022/12/07 17:55:19 users.go:57: near "where": syntax error
+2022/12/07 18:08:19 users.go:57: UNIQUE constraint failed: users.id
+2022/12/07 18:08:35 users.go:57: near "where": syntax error
+2022/12/07 18:09:32 users.go:57: near "where": syntax error
+2022/12/07 18:21:49 users.go:57: near "where": syntax error
